@@ -286,6 +286,10 @@
    "dai": ""
   }
  ],
+ "translation": {
+  "count": 23,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-mushi",
   "work": "虫歌合",
